@@ -1,0 +1,15 @@
+/home/zeref/RiderProjects/WatchList/WatchList/bin/Debug/net6.0/WatchList
+/home/zeref/RiderProjects/WatchList/WatchList/bin/Debug/net6.0/WatchList.deps.json
+/home/zeref/RiderProjects/WatchList/WatchList/bin/Debug/net6.0/WatchList.runtimeconfig.json
+/home/zeref/RiderProjects/WatchList/WatchList/bin/Debug/net6.0/WatchList.dll
+/home/zeref/RiderProjects/WatchList/WatchList/bin/Debug/net6.0/ref/WatchList.dll
+/home/zeref/RiderProjects/WatchList/WatchList/bin/Debug/net6.0/WatchList.pdb
+/home/zeref/RiderProjects/WatchList/WatchList/obj/Debug/net6.0/WatchList.csproj.AssemblyReference.cache
+/home/zeref/RiderProjects/WatchList/WatchList/obj/Debug/net6.0/WatchList.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeref/RiderProjects/WatchList/WatchList/obj/Debug/net6.0/WatchList.AssemblyInfoInputs.cache
+/home/zeref/RiderProjects/WatchList/WatchList/obj/Debug/net6.0/WatchList.AssemblyInfo.cs
+/home/zeref/RiderProjects/WatchList/WatchList/obj/Debug/net6.0/WatchList.csproj.CoreCompileInputs.cache
+/home/zeref/RiderProjects/WatchList/WatchList/obj/Debug/net6.0/WatchList.dll
+/home/zeref/RiderProjects/WatchList/WatchList/obj/Debug/net6.0/ref/WatchList.dll
+/home/zeref/RiderProjects/WatchList/WatchList/obj/Debug/net6.0/WatchList.pdb
+/home/zeref/RiderProjects/WatchList/WatchList/obj/Debug/net6.0/WatchList.genruntimeconfig.cache
