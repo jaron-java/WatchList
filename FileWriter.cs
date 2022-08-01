@@ -7,8 +7,10 @@ public class FileWriter
         string path = $"{media.Type}.txt";
         using (StreamWriter sw = File.AppendText(path))
         {
+            sw.WriteLine(media.Type);
             sw.WriteLine("==============");
             sw.WriteLine(media.Title);
+            sw.WriteLine("");
             sw.WriteLine("##############");
         }
         
